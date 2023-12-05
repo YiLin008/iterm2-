@@ -30,3 +30,6 @@ $ cd pokemonsay
 
 $ ./install.sh
 ### 最后将zshrc.yaml修改成.zshrc替换～目录下同名文件。如有报错按照相关提示修改最后几行配置选项
+![展示1](https://github.com/YiLin008/iterm2-config/blob/main/show1.jpg)
+![展示2](https://github.com/YiLin008/iterm2-config/blob/main/show2.jpg)
+
