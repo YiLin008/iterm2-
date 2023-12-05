@@ -23,4 +23,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 brew install zsh-syntax-highlighting
 ## 配置autojump
 brew install autojump
+## seadra--pokemonsay安装
+$ git clone http://github.com/possatti/pokemonsay
+$ cd pokemonsay
+$ ./install.sh
 ### 最后将zshrc.yaml修改成.zshrc替换～目录下同名文件。如有报错按照相关提示修改最后几行配置选项
