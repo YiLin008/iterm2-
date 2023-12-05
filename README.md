@@ -1,16 +1,16 @@
 # iterm2-配置
 ## 配置主题
-只需要修改 .zshrc 文件中的 ZSH_THEME="xx" 属性即可。
-我目前使用的主题是：spaceship
-1.下载主题文件：
+#### 只需要修改 .zshrc 文件中的 ZSH_THEME="xx" 属性即可。
+#### 我目前使用的主题是：spaceship
+#### 1.下载主题文件：
 git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
-2.创建软连接
+#### 2.创建软连接
 ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
-3.修改zsh配置
+#### 3.修改zsh配置
 vim ~/.zshrc
-4.修改：
+#### 4.修改：
 ZSH_THEME="spaceship"
-5.生效：
+#### 5.生效：
 source ~/.zshrc
 ## 下载Oh-My-Zsh
 curl方式
